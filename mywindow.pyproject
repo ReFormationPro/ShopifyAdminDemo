@@ -1,0 +1,3 @@
+{
+    "files": ["UI/ImageField.ui","UI/RuleField.ui","UI/UIShopWindow.py","UI/UITable.py","UI/RadioButtonWindow.ui","UI/TextField.ui","UI/UIMainWindow.py","UI/UIImageField.py","UI/UINumberField.py","UI/UIFieldEditor.py","Errors.py","UI/NumberField.ui","UI/FieldEditor.ui","UI/UISearchForm.py","BulkWebhookTable.py","UI/SearchForm.ui","ShopifyManager.py","StoreManager.py","UI/UIRuleEditor.py","Store.py","UI/UIComboboxField.py","Tables.py","UI/ComboboxField.ui","UI/SearchForm.py","UI/ShopWindow.py","mywindow.py","UI/RuleEditor.py","UI/UIRadioButtonWindow.py","UI/RuleEditor.ui","UI/ShopWindow.ui","UI/UIRuleField.py","UI/MainWindow.ui","UI/UITextField.py","UI/StoreSelect.ui","Editors.py","UI/Table.ui","ThreadHelper.py","ShopWindow.py"]
+}
